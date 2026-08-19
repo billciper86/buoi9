@@ -7,7 +7,7 @@ int main()
     cin >> n;
     if (n <= 0)
     {
-        cout << "nhap so nguyen duong";
+        cout << "nhap so nguyen duong: ";
         return 0;
     }
     long long current_nums = n;
